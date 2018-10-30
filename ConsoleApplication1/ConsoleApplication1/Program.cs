@@ -8,6 +8,8 @@ namespace ConsoleApplication1
 {
     class Program
     {
+        //comment from git
+        //comment from tfs
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
