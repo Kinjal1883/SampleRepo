@@ -1,2 +1,3 @@
 # SampleRepo
 Sample repository
+sample
